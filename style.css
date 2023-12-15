@@ -1,0 +1,42 @@
+.game{
+    width: 512px;
+    text-align: center;
+    margin: auto;
+}
+
+span{
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.title{
+    font-size: 3em;
+    text-align: center;
+    background-color: #507;
+    margin: 5px 0;
+    padding: 5px 0;
+}
+
+.square{
+    background-color: #507;
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin: 10px;
+    font-size: 130px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #f5f3ff;
+}
+
+
+.square:hover{
+    background-color: #fff;
+    cursor: pointer;
+    color: black;
+}
+
+
+
+
+
